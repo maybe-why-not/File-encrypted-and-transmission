@@ -10,3 +10,10 @@
           <br>    root@kali:~/桌面# python socket_client.py
           <br>    >>:get url.txt<\br>
           <br>    #url.txt为server上与socket_server同文件夹下的文件
+
+参考链接：
+<br>[https://www.cnblogs.com/huangjianting/p/8666446.html](https://www.cnblogs.com/huangjianting/p/8666446.html)
+<br>[https://www.cnblogs.com/xiangsikai/p/8137508.html](https://www.cnblogs.com/xiangsikai/p/8137508.html)
+<br>[https://www.cnblogs.com/guqing/p/6084009.html](https://www.cnblogs.com/guqing/p/6084009.html)
+<br>[https://blog.csdn.net/qq_29053519/article/details/79170519](https://blog.csdn.net/qq_29053519/article/details/79170519)
+<br>[https://blog.csdn.net/yenai2008/article/details/70240658](https://blog.csdn.net/yenai2008/article/details/70240658)
