@@ -11,6 +11,8 @@
           <br>    >>:get url.txt
           <br>    #url.txt为server上与socket_server同文件夹下的文件
 
+注意：crypto模块安装完之后各种报错不存在，在路径Python36\Lib\site-packages下找到Crypto.Cipher把包名改成大写，安装的时候有时候大写有时候小写。
+
 参考链接：
 <br>[https://www.cnblogs.com/huangjianting/p/8666446.html](https://www.cnblogs.com/huangjianting/p/8666446.html)
 <br>[https://www.cnblogs.com/xiangsikai/p/8137508.html](https://www.cnblogs.com/xiangsikai/p/8137508.html)
